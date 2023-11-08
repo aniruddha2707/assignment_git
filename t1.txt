@@ -1,2 +1,6 @@
 hvfjcfj
+<<<<<<< HEAD
 ksbvklsvnksdlvk
+=======
+jhsvj
+>>>>>>> b1
